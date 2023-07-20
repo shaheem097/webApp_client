@@ -1,0 +1,22 @@
+.button-container {
+    margin-top: 20px;
+  }
+  
+  .login-button {
+    background-color: #f0f0f0;
+    color: #333;
+    border: none;
+    margin-right: 10px;
+  }
+  
+  .signup-button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+  }
+  
+  .special-button {
+    background-color: #ff00ff;
+    color: #fff;
+  }
+  
